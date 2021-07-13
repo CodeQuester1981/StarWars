@@ -1,0 +1,4 @@
+This is version one of what will become a functional application.
+I started by using the most common React js functionality, such as react-router-dom, 
+bootstrap, props and state, to give an indication of my general capability to start.
+

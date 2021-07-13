@@ -1,0 +1,19 @@
+.paragraphs {
+    width: 70%;
+}
+
+.home-header {
+    margin: 25px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+img {
+    width: 22%;
+    float: right;
+}
